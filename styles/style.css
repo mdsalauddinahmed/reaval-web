@@ -1,9 +1,7 @@
 .fnt-reveal-bold{
     font-weight: 600;
 }
-.button-clr{
-     /* background: blue; */
-}
+ 
 .banner-img-1{
   background-image: url(/image/carousel/1.jpg);
   height: 100vh;
