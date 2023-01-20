@@ -1,0 +1,18 @@
+.fnt-reveal-bold{
+    font-weight: 600;
+}
+.button-clr{
+     /* background: blue; */
+}
+.banner-img-1{
+  background-image: url(/image/carousel/1.jpg);
+  height: 100vh;
+}
+.banner-img-2{
+    background-image: url(/image/carousel/2.jpg);
+    height: 100vh;
+}
+.banner-img-3{
+    background-image: url(/image/carousel/3.jpg);
+    height: 100vh;
+}
